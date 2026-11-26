@@ -3,3 +3,8 @@
 **/.env.*
 !**/.env.example
 *.log
+backend/services/auth/serviceAccount.json
+*serviceAccount*.json
+
+*serviceAccount*.json
+.env
